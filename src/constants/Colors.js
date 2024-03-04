@@ -1,0 +1,5 @@
+export const AppColor = 'rgb(71, 61, 204)'
+export const Black = 'rgb(0, 0, 0)'
+export const White = 'rgb(255, 255, 255)'
+export const Grey = 'rgba(0, 0, 0, 0.3)'
+export const Silver = 'rgba(0, 0, 0, 0.1)'
